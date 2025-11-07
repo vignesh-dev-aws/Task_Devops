@@ -1,0 +1,13 @@
+{
+    "name": "awsbuildtest",
+    "version": "1.0.0",
+    "description": "Sample project for AWS CodeBuild",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app/app.js"
+    },
+    "author": "Shashi",
+    "license": "ISC",
+    "dependencies": {}
+  }
+  
